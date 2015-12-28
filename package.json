@@ -1,7 +1,7 @@
 {
   "name": "netcogs-puff-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Puff atom editor syntax theme from Netcogs",
   "keywords": [
     "netcogs",
