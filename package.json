@@ -2,12 +2,14 @@
   "name": "netcogs-puff-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Puff syntax theme from Netcogs",
+  "description": "Puff atom editor syntax theme from Netcogs",
   "keywords": [
+    "netcogs",
+    "puff",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/netcogs-puff-syntax.git",
+  "repository": "https://github.com/netcogs/netcogs-puff-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
