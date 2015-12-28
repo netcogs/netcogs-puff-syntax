@@ -1,10 +1,8 @@
-# netcogs-puff-syntax theme
-
-Publishing very soon...
+# Netcogs Puff Syntax Theme
 
 Puff syntax theme from Netcogs.
 
-Originally created for our ui theme [Netcogs Puff Ui](https://github.com/netcogs/netcogs-puff-ui) theme.
+Originally created for our atom ui theme, [Netcogs Puff Ui](https://atom.io/themes/netcogs-puff-ui) theme.
 
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot-1](https://cloud.githubusercontent.com/assets/16263391/12024490/74587be4-adca-11e5-8747-f1620001aba9.png)

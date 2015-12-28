@@ -1,0 +1,15 @@
+{
+  "name": "netcogs-puff-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Puff syntax theme from Netcogs",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/netcogs-puff-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
